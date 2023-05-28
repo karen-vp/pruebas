@@ -28,37 +28,67 @@ const houses = [
   },
 ];
 
-// harry potter students array
+// harry potter villains array
 
-const students = [
+const villains = [
   {
-    name: 'Harry Potter',
-    house: 'Gryffindor',
-    bloodStatus: 'half-blood',
-    species: 'human',
+    name: 'Lord Voldemort',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
   },
   {
-    name: 'Ron Weasley',
-    house: 'Gryffindor',
-    bloodStatus: 'pure-blood',
-    species: 'human',
-  },
-  {
-    name: 'Hermione Granger',
-    house: 'Gryffindor',
-    bloodStatus: 'muggle-born',
-    species: 'human',
+    name: 'Bellatrix Lestrange',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
   },
   {
     name: 'Draco Malfoy',
-    house: 'Slytherin',
-    bloodStatus: 'pure-blood',
-    species: 'human',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
   },
   {
-    name: 'Luna Lovegood',
-    house: 'Ravenclaw',
-    bloodStatus: 'pure-blood',
-    species: 'human',
+    name: 'Dolores Umbridge',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
+  },
+  {
+    name: 'Peter Pettigrew',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
+  },
+  {
+    name: 'Barty Crouch Jr.',
+    color: 'none',
+    traits: [
+      'ambition',
+      'cunning',
+      'leadership',
+      'resourcefulness',
+    ],
   },
 ];
