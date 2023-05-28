@@ -1,4 +1,3 @@
 const hola = "holan't";
 
-// Path: index.js
-const index = 'index';
+const index = 'not index';
