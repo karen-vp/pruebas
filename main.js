@@ -27,3 +27,38 @@ const houses = [
     ],
   },
 ];
+
+// harry potter students array
+
+const students = [
+  {
+    name: 'Harry Potter',
+    house: 'Gryffindor',
+    bloodStatus: 'half-blood',
+    species: 'human',
+  },
+  {
+    name: 'Ron Weasley',
+    house: 'Gryffindor',
+    bloodStatus: 'pure-blood',
+    species: 'human',
+  },
+  {
+    name: 'Hermione Granger',
+    house: 'Gryffindor',
+    bloodStatus: 'muggle-born',
+    species: 'human',
+  },
+  {
+    name: 'Draco Malfoy',
+    house: 'Slytherin',
+    bloodStatus: 'pure-blood',
+    species: 'human',
+  },
+  {
+    name: 'Luna Lovegood',
+    house: 'Ravenclaw',
+    bloodStatus: 'pure-blood',
+    species: 'human',
+  },
+];
